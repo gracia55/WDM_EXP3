@@ -39,7 +39,7 @@ for each wear category.</p>
 8. Visulaize the sequence patterns using matplotlib.
 </p>
 
-### Program:
+#### Program:
 
 ```python
 from collections import defaultdict
